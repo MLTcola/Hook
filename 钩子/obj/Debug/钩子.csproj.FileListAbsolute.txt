@@ -1,0 +1,9 @@
+D:\MY\C#程序\winform程序\钩子\钩子\bin\Debug\钩子.exe.config
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.csprojResolveAssemblyReference.cache
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.Form1.resources
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.Properties.Resources.resources
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\钩子\钩子\bin\Debug\钩子.exe
+D:\MY\C#程序\winform程序\钩子\钩子\bin\Debug\钩子.pdb
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.exe
+D:\MY\C#程序\winform程序\钩子\钩子\obj\Debug\钩子.pdb
